@@ -33,6 +33,6 @@ gem "jekyll-archives"
 gem "jekyll-sitemap"
 gem "jekyll-paginate-v2"
 gem 'jekyll-spaceship'
-
+gem 'jekyll-maps'
 
 gem "webrick", "~> 1.7"
